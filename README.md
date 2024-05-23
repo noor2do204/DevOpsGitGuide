@@ -34,11 +34,12 @@ N'hésitez pas à me contacter si vous avez des questions ou des difficultés.
 
 ## Tâches du projet
 
-1. Créer un script qui organise les fichiers dans un répertoire, liste les permissions et effectue des opérations de base comme décrit [ici](https://gounthar.github.io/learning-2024-devops/shell/#%F0%9F%A7%AA-exercise-1-file-system-management).
-2. Créer un script qui effectue les changements sur les fichiers comme décrit [ici](https://gounthar.github.io/learning-2024-devops/shell/#%F0%9F%A7%AA-exercise-1-bis-file-system-management).
-3. Créer un script qui ajoute une tâche `cron` comme décrit [ici](https://gounthar.github.io/learning-2024-devops/shell/#%F0%9F%A7%AA-exercise-2-bis-cron-on-gitpod).
-4. _"gitpodiser"_ le repository en créant deux fichier `.gitpod.Dockerfile` et `.gitpod.yml` comme décrit [ici](https://gounthar.github.io/learning-2024-devops/shell/#%F0%9F%A7%AA-exercise-2-ter-make-cron-available-on-gitpod-from-the-start).
-7. **Ouvrir une Pull Request :** Une fois votre repository créé et les tâches précédentes terminées, ouvrez une [Pull Request sur ce repository](https://github.com/gounthar/DevOpsGitGuide/compare) pour que je puisse examiner votre travail. Cette PR contiendra une modification de ce fichier README.md, où vous ajouterez le lien vers votre dépôt.
+1. **Créer un script** qui organise les fichiers dans un répertoire, liste les permissions et effectue des opérations de base comme décrit [ici](https://gounthar.github.io/learning-2024-devops/shell/#%F0%9F%A7%AA-exercise-1-file-system-management).
+2. **Créer un script** qui effectue les changements sur les fichiers comme décrit [ici](https://gounthar.github.io/learning-2024-devops/shell/#%F0%9F%A7%AA-exercise-1-bis-file-system-management).
+3. **Créer un script** qui ajoute une tâche `cron` comme décrit [ici](https://gounthar.github.io/learning-2024-devops/shell/#%F0%9F%A7%AA-exercise-2-bis-cron-on-gitpod).
+4. **_"gitpodiser"_** le repository en créant deux fichier `.gitpod.Dockerfile` et `.gitpod.yml` comme décrit [ici](https://gounthar.github.io/learning-2024-devops/shell/#%F0%9F%A7%AA-exercise-2-ter-make-cron-available-on-gitpod-from-the-start).
+5. **Ouvrir une Pull Request :** Une fois votre repository créé et les tâches précédentes terminées, ouvrez une [Pull Request sur ce repository](https://github.com/gounthar/DevOpsGitGuide/compare) pour que je puisse examiner votre travail.
+Cette PR contiendra une modification de ce fichier README.md, où vous ajouterez le lien vers votre dépôt. N'oubliez pas de me donner les droits de lecture sur votre dépôt s'il n'est pas public.
 
 N'oubliez pas, l'objectif est non seulement de vous familiariser avec Git et GitHub, mais aussi de suivre les meilleures pratiques lors de la réalisation d'un projet logiciel.
 
