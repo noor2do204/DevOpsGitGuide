@@ -21,9 +21,9 @@ N'hésitez pas à me contacter si vous avez des questions ou des difficultés.
 ## Tâches préliminaires
 
 1. **Comprendre Git et GitHub :** Familiarisez-vous avec les concepts de base de Git et GitHub. Vous pouvez utiliser [ce lien](https://guides.github.com/introduction/git-handbook/) pour commencer.
-Par la suite, [ce site](https://hangar118.sdf.org/p/bash-scripting-guide/) vous en apprendra plus.
 
 2. **Apprendre le Bash :** Familiarisez-vous avec le langage de script Bash. Vous pouvez utiliser [ce lien](https://www.learnshell.org/) pour commencer.
+Par la suite, [ce site](https://hangar118.sdf.org/p/bash-scripting-guide/) vous en apprendra plus.
 
 3. **Créer un dépôt GitHub :** Créez un nouveau dépôt sur GitHub. Vous pouvez nommer le dépôt comme vous le souhaitez, mais assurez-vous que le nom est descriptif et concis.
 
