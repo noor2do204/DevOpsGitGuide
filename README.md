@@ -34,6 +34,7 @@ Ajoutez un fichier `.gitignore` à votre dépôt. Vous pouvez en savoir plus sur
 5. **Inclure une licence :** [Ajoutez un fichier de licence](https://docs.github.com/fr/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) à votre dépôt. C'est une bonne pratique lorsque vous partagez du code publiquement, car cela indique aux autres ce qu'ils peuvent et ne peuvent pas faire avec le code.
 
 6. **Ajouter un fichier README.md :** [Ajoutez un fichier README.md](https://docs.github.com/fr/repositories/creating-and-managing-repositories/best-practices-for-repositories#create-a-readme-file) à votre dépôt. Ce fichier devra par la suite contenir une description de votre projet, des instructions pour l'exécuter et des informations sur la manière de contribuer.
+7.  **Installer l'extension GitPod**: [Installer l'extension GitPod](https://www.gitpod.io/docs/introduction/getting-started#install-the-browser-extension) pour votre navigateur.
 
 ## Tâches du projet
 
