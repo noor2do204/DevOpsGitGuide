@@ -1,4 +1,4 @@
-Exercices 1 à 4 pour le Shell, à rendre avant le 04 juin 2024.
+Exercices [1](https://gounthar.github.io/learning-2024-devops/shell/#%F0%9F%A7%AA-exercise-1-file-system-management), [1-Bis](https://gounthar.github.io/learning-2024-devops/shell/#%F0%9F%A7%AA-exercise-1-bis-file-system-management), [2-Bis](https://gounthar.github.io/learning-2024-devops/shell/#%F0%9F%A7%AA-exercise-2-bis-cron-on-gitpod), [2-Ter](https://gounthar.github.io/learning-2024-devops/shell/#%F0%9F%A7%AA-exercise-2-ter-make-cron-available-on-gitpod-from-the-start) pour le [Shell](https://gounthar.github.io/learning-2024-devops/shell/), à rendre avant le 04 juin 2024.
 
 # Projet DevOps 2024
 
@@ -10,7 +10,7 @@ Vous allez travailler sur plusieurs tâches qui vous aideront à comprendre ces 
 ## Points d'attention
 
 Pour chacune de ces tâches, créez une branche spécifique dans votre dépôt Git (`git checkout -b "branche-de-travail" origin/main`).
-Une fois la tâche terminée, _committez_, _pushez_, ouvrez une Pull Request et faites le _merge_ vers `main`.
+Une fois la tâche terminée, _committez_ (`git add` puis `git commit`), _pushez_ (`git push -u origin "branche-de-travail"`), ouvrez une Pull Request et faites le _merge_ vers `main`.
 Ensuite, effacez votre branche de travail.
 
 ## En cas de difficulté
