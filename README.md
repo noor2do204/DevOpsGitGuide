@@ -49,4 +49,28 @@ N'oubliez pas, l'objectif est non seulement de vous familiariser avec Git et Git
 
 Bonne chance!
 
+## Notation
+
+1. **Comprendre Git et GitHub (2 points) :** Sera évalué en regardant votre historique de commits, l'utilisation des branches, et la gestion globale de votre dépôt.
+
+2. **Apprendre le Bash (2 points) :** Sera évalué en examinant les scripts (syntaxe correcte, utilisation des variables).
+
+3. **Créer un dépôt GitHub (1 point) :** 
+
+4. **Utiliser `.gitignore` (1 point) :** Le fichier `.gitignore` devrait être présent dans le dépôt et devrait inclure des entrées pour les fichiers et dossiers qui ne sont généralement pas suivis dans un dépôt Git.
+
+5. **Inclure une licence (1 point) :** Le fichier de licence devrait clairement indiquer les conditions sous lesquelles d'autres peuvent utiliser votre code.
+
+6. **Ajouter un fichier `README.md` (1 point) :** Le fichier `README.md` devrait inclure une description du projet, des instructions pour l'exécuter, et des informations sur comment contribuer.
+
+7. **Créer un script pour la gestion du système de fichiers (3 points) :** Efficacité et lisibilité. Le script devrait effectuer correctement les opérations du système de fichiers spécifiées.
+
+8. **Créer un script pour les modifications de fichiers (3 points) :** Efficacité et lisibilité. Le script devrait effectuer correctement les modifications de fichiers spécifiées.
+
+9. **Créer un script pour ajouter une tâche cron (3 points) :** Efficacité. Le script devrait correctement ajouter une tâche cron comme spécifié.
+
+10. **"Gitpodiser" le dépôt (3 points) :** Création et configuration des fichiers `.gitpod.Dockerfile` et `.gitpod.yml`. L'espace de travail Gitpod devrait être correctement configuré avec les outils et configurations nécessaires.
+
+Le nombre total de points que vous pouvez obtenir est de 20.
+
 ## Liste des repositories
