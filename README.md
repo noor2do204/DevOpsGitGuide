@@ -79,3 +79,4 @@ Le nombre total de points que vous pouvez obtenir est de 20.
 
 1. BARBIER Lucas : https://github.com/lbarbier22/DevOpsTDRepo.git
 2. Valentin Boulanger : https://github.com/ValaK47/TPDevOPS.git
+3. Thomas KUREK : https://github.com/Thomask25/DevOpsTK
