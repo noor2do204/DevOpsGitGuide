@@ -81,3 +81,4 @@ Le nombre total de points que vous pouvez obtenir est de 20.
 2. Valentin Boulanger : https://github.com/ValaK47/TPDevOPS.git
 3. Thomas KUREK : https://github.com/Thomask25/DevOpsTK
 4. Antoine CABY : https://github.com/antoinecaby/devops
+5. Hector ROUSSEL : https://github.com/Ryujin42/DevOps.git
