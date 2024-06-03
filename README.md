@@ -82,4 +82,5 @@ Le nombre total de points que vous pouvez obtenir est de 20.
 3. Thomas KUREK : https://github.com/Thomask25/DevOpsTK
 4. Antoine CABY : https://github.com/antoinecaby/devops
 5. Hector ROUSSEL : https://github.com/Ryujin42/DevOps.git
-6. Quentin MOSKWA : https://github.com/QuentinMoskwa/DevOpsGitTP.git
+6. Arthur Hallez : https://github.com/arthur59930/Devoir-Dev-SecOps
+7. Quentin MOSKWA : https://github.com/QuentinMoskwa/DevOpsGitTP.git
