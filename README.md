@@ -84,4 +84,19 @@ Le nombre total de points que vous pouvez obtenir est de 20.
 5. Hector ROUSSEL : https://github.com/Ryujin42/DevOps.git
 6. Arthur Hallez : https://github.com/arthur59930/Devoir-Dev-SecOps
 7. Quentin MOSKWA : https://github.com/QuentinMoskwa/DevOpsGitTP.git
-8. Asmae MABROUK : https://github.com/Asmae-Mabrouk/Devops_Tp_1
+8. Adrien DUPONT : https://github.com/Adrienfdupont/devops
+9. Brandon MATHUREL : https://github.com/BdnKingOfApes/DevOps1
+10. Jason HIBLOT : https://github.com/Poliuth/DevOps
+11. Leeo JANON : https://github.com/lethmeshine/devops
+12. Vincent MOYAUX : https://github.com/Vincent-M04/DevOps
+13. Abdessalem Saadaoui : https://github.com/abdessalems/dev_ops_project
+14. Mathys Caron : https://github.com/MathysCaron/projet-devops-2024
+15. Benoît Lavoine: https://github.com/Tionebl/projet-devops-204
+16. RIBOULET Tristan: https://github.com/TristanRib/DevOpsGit.git
+17. Thomas Busin : https://github.com/ThomBsn/TDDevOps
+18. Geoffrey Poiret : https://github.com/GeoGeo0059/DevOps_2024
+19. Emma Salot : https://github.com/EmmaSalot/tp_devops
+20. Amalric Vaurs : https://github.com/avaurs/devops.git
+21. Tom Notebaert : https://github.com/Reacerre/TaskManager.git
+22. Zakaria HAJJI : https://github.com/hajji01/Devops
+23. Asmae MABROUK : https://github.com/Asmae-Mabrouk/Devops_Tp_1
