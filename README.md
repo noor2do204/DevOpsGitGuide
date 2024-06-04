@@ -95,4 +95,5 @@ Le nombre total de points que vous pouvez obtenir est de 20.
 16. RIBOULET Tristan: https://github.com/TristanRib/DevOpsGit.git
 17. Thomas Busin : https://github.com/ThomBsn/TDDevOps
 18. Geoffrey Poiret : https://github.com/GeoGeo0059/DevOps_2024
+19. Emma Salot : https://github.com/EmmaSalot/tp_devops
 
