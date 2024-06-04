@@ -98,3 +98,4 @@ Le nombre total de points que vous pouvez obtenir est de 20.
 19. Emma Salot : https://github.com/EmmaSalot/tp_devops
 20. Amalric Vaurs : https://github.com/avaurs/devops.git
 21. Tom Notebaert : https://github.com/Reacerre/TaskManager.git
+22. Zakaria HAJJI : https://github.com/hajji01/Devops/tree/main
