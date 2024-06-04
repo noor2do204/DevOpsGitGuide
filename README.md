@@ -92,4 +92,5 @@ Le nombre total de points que vous pouvez obtenir est de 20.
 13. Abdessalem Saadaoui : https://github.com/abdessalems/dev_ops_project
 14. Mathys Caron : https://github.com/MathysCaron/projet-devops-2024
 15. Benoît Lavoine: https://github.com/Tionebl/projet-devops-204
-16. Thomas Busin : https://github.com/ThomBsn/TDDevOps
+16. RIBOULET Tristan: https://github.com/TristanRib/DevOpsGit.git
+17. Thomas Busin : https://github.com/ThomBsn/TDDevOps
