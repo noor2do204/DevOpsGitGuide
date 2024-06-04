@@ -100,3 +100,4 @@ Le nombre total de points que vous pouvez obtenir est de 20.
 21. Tom Notebaert : https://github.com/Reacerre/TaskManager.git
 22. Zakaria HAJJI : https://github.com/hajji01/Devops
 23. Asmae MABROUK : https://github.com/Asmae-Mabrouk/Devops_Tp_1
+24. Samuel Degrande : https://github.com/Algamor59/TPDevOPSDegrandeS
