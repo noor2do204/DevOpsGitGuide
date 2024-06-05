@@ -106,5 +106,9 @@ Le nombre total de points que vous pouvez obtenir est de 20.
 27. Clément D : https://github.com/Klaiment/DevOpsGitGuide
 28. Nicolas VAN-DUYSEN : https://github.com/nicolas-vdn/devops_bash
 29. Jawad BELKAID : https://github.com/JawadBLK/projet_bash_devops.git
-30. Antoine COUSIN : https://github.com/AntoineDevv/DevOps
+30. Edouard PREIN : https://github.com/EdouardPrein/devops-efficom-Edouard
+31. Baptiste Fournel : https://github.com/Baptiste-Fournel/TPDevOps.git
+32. Alexis Applincourt : https://github.com/DocssiS/TP1DEVOPS
+33. Florian Margage ! https://github.com/FlorianMargage/devops
+34. Antoine COUSIN : https://github.com/AntoineDevv/DevOps
 
