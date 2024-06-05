@@ -103,4 +103,7 @@ Le nombre total de points que vous pouvez obtenir est de 20.
 24. Samuel Degrande : https://github.com/Algamor59/TPDevOPSDegrandeS
 25. Romain BELHIS : https://github.com/Ro0M1/TpDevOps.git
 26. Yann Bauduin :  https://github.com/yann-bauduin/devops-tp
-27. Jawad BELKAID : https://github.com/JawadBLK/projet_bash_devops.git
+27. Clément D : https://github.com/Klaiment/DevOpsGitGuide
+28. Nicolas VAN-DUYSEN : https://github.com/nicolas-vdn/devops_bash
+29. Jawad BELKAID : https://github.com/JawadBLK/projet_bash_devops.git
+
